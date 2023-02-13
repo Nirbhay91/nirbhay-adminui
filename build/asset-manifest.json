@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nirbhay-adminui/static/css/main.0cf7bb74.chunk.css",
+    "main.js": "/nirbhay-adminui/static/js/main.621b676c.chunk.js",
+    "main.js.map": "/nirbhay-adminui/static/js/main.621b676c.chunk.js.map",
+    "runtime-main.js": "/nirbhay-adminui/static/js/runtime-main.b6a969d5.js",
+    "runtime-main.js.map": "/nirbhay-adminui/static/js/runtime-main.b6a969d5.js.map",
+    "static/css/2.92c2f793.chunk.css": "/nirbhay-adminui/static/css/2.92c2f793.chunk.css",
+    "static/js/2.945bd86c.chunk.js": "/nirbhay-adminui/static/js/2.945bd86c.chunk.js",
+    "static/js/2.945bd86c.chunk.js.map": "/nirbhay-adminui/static/js/2.945bd86c.chunk.js.map",
+    "static/js/3.358b8333.chunk.js": "/nirbhay-adminui/static/js/3.358b8333.chunk.js",
+    "static/js/3.358b8333.chunk.js.map": "/nirbhay-adminui/static/js/3.358b8333.chunk.js.map",
+    "index.html": "/nirbhay-adminui/index.html",
+    "static/css/2.92c2f793.chunk.css.map": "/nirbhay-adminui/static/css/2.92c2f793.chunk.css.map",
+    "static/css/main.0cf7bb74.chunk.css.map": "/nirbhay-adminui/static/css/main.0cf7bb74.chunk.css.map",
+    "static/js/2.945bd86c.chunk.js.LICENSE.txt": "/nirbhay-adminui/static/js/2.945bd86c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a969d5.js",
+    "static/css/2.92c2f793.chunk.css",
+    "static/js/2.945bd86c.chunk.js",
+    "static/css/main.0cf7bb74.chunk.css",
+    "static/js/main.621b676c.chunk.js"
+  ]
+}
